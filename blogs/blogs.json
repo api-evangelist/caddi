@@ -1,0 +1,14 @@
+{
+  "repo": "caddi",
+  "feeds": [
+    {
+      "source": "https://caddi.com",
+      "feed_url": "https://caddi.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-20T13:31:34Z"
+}

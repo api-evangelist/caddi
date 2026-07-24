@@ -1,0 +1,25 @@
+# CADDi
+
+> CADDi is a Tokyo-headquartered manufacturing-technology company offering an AI Data Platform that aggregates scattered engineering drawings and supply-chain data into a searchable organizational asset. The platform's two products — CADDi Drawer and CADDi Quote — help procurement, engineering, and sourcing teams find similar historical parts, standardize designs, automate quotations, and recover institutional knowledge across automotive, robotics, and precision-machinery manufacturing.
+
+CADDi does not publish a public developer API, SDK, or OpenAPI at this time. Data enters and leaves the platform through batch drawing uploads, CSV imports, and connectors to ERP, CAM, CAD, and quality systems rather than a documented HTTP API. This profile is an API Evangelist company record; it will gain API-specific sections if and when CADDi publishes a developer surface.
+
+## Products
+- [CADDi Drawer](https://us.caddi.com/): Centralizes manufacturing data by digitizing 2D drawings, keyword and 2D-similarity search across historical documents, and automatic extraction of dimensions, text, and shapes; links quotation and supply-chain data to drawings.
+- [CADDi Quote](https://caddi.com/ja-jp/quote/): AI-assisted procurement and quotation automation that standardizes sourcing activities.
+
+## Company
+- [CADDi (global)](https://caddi.com): Company home.
+- [CADDi US](https://us.caddi.com/): US site (English).
+- [About](https://us.caddi.com/company/): Company overview.
+- [News](https://caddi.com/news/): Company news and announcements.
+- [Resources](https://us.caddi.com/resources/): Whitepapers, events, knowledge base, FAQ.
+- [Contact](https://caddi.com/contact/): Sales and support contact.
+
+## Security & compliance
+- [Security](https://us.caddi.com/security/): SOC 2 Type II, ISO 27001/ISMS, ITAR registration (US-only Drawer tier for export-controlled data), GDPR compliance.
+- [Information Security Policy](https://caddi.com/information-security/): Corporate ISMS policy (ISO 27001 badge).
+
+## Legal
+- [Terms](https://caddi.com/drawer/terms/): Drawer terms of service.
+- [Privacy Policy](https://caddi.com/privacy-policy/): Privacy policy.

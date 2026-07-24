@@ -1,0 +1,22 @@
+generated: '2026-07-18'
+method: searched
+probe: false
+source: https://us.caddi.com/security/
+url: https://us.caddi.com/security/
+certifications:
+- SOC 2 Type II
+- ISO 27001
+- ITAR Registered
+- GDPR
+notes: >-
+  CADDi publishes a security page for its Drawer manufacturing AI data platform
+  naming SOC 2 Type II, ISO 27001/ISMS, ITAR registration (a US-only tier of the
+  Drawer platform meeting export-control requirements for defense/aerospace data),
+  and GDPR compliance (encryption of personal data, regular audits of data
+  handling). A separate corporate information-security policy is published at
+  https://caddi.com/information-security/ carrying an ISO 27001/ISMS badge.
+evidence:
+- source: https://us.caddi.com/security/
+  keywords: [soc 2 type ii, iso 27001, itar, gdpr]
+- source: https://caddi.com/information-security/
+  keywords: [iso 27001, ismS, information security policy]
