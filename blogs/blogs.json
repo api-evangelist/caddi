@@ -2,13 +2,17 @@
   "repo": "caddi",
   "feeds": [
     {
+      "source": "https://caddi.com/feed/",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://caddi.com",
-      "feed_url": "https://caddi.com/feed/",
+      "feed_url": "https://caddi.com",
       "title": "",
-      "saved": 1,
-      "method": "discovered"
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 9,
+  "fetched": "2026-08-01T15:49:00Z"
 }
