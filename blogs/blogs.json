@@ -2,10 +2,6 @@
   "repo": "caddi",
   "feeds": [
     {
-      "source": "https://caddi.com/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://caddi.com",
       "feed_url": "https://caddi.com",
       "title": "",
@@ -14,5 +10,5 @@
     }
   ],
   "post_count": 9,
-  "fetched": "2026-08-01T15:49:00Z"
+  "fetched": "2026-08-06T14:08:46Z"
 }
